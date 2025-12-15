@@ -56,6 +56,7 @@ export default function ContactForm() {
         throw new Error(result.error || "Nepodarilo sa odoslať správu.");
       }
     }
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     catch (err: any) {
       console.error("Error sending form:", err);
       setNotification({
