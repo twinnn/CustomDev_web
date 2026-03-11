@@ -59,8 +59,7 @@ export default function ContactUsSection() {
             <BottomNav />
           </div>
           <div className="order-4 md:order-1 md:flex-1/4">
-            Všetky práva vyhradené. 2025.<br />
-            Navrhol www.michaelmuzik.com
+            Všetky práva vyhradené. 2025.
           </div>
         </div>
       </div>

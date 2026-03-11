@@ -24,9 +24,9 @@ export default function Partners() {
         <PartnerProfile photo={"/ph.png"} name={"Peter Hanzlik"} position={"Uznávaný odborník na IoT, dátovú analytiku a umelú inteligenciu"}
           describtion={"Viac ako 20 rokov skúseností v technologických inováciách, Distinguished Technologist v DXC Technology a držiteľ prestížneho ocenenia Microsoft MVP za AI, ktoré potvrdzuje jeho prínos odborným komunitám a zdieľanie znalostí na globálnej úrovni."}
           linkUrl="https://www.linkedin.com/in/peterhanzlik/" linkText="LINKEDIN" />
-        <PartnerProfile photo={"/mm.png"} name={"Michael Mužík"} position={"Full stack dizajnér"}
+{/*         <PartnerProfile photo={"/mm.png"} name={"Michael Mužík"} position={"Full stack dizajnér"}
           describtion={"Viac než 9 rokov skúseností so všetkými formami dizajnu. Certifikovaný na University of the Arts London vo vizuálnej identite a prvý oficiálne certifikovaný Wix Studio webdizajnér na Slovensku."}
-          linkUrl="https://michaelmuzik.com" linkText="MICHAELMUZIK.COM" />
+          linkUrl="https://michaelmuzik.com" linkText="MICHAELMUZIK.COM" /> */}
       </div>
       <div className="flex flex-col font-silka-400">
         A desiatky ďalších...
